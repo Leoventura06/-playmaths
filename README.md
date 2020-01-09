@@ -1,2 +1,2 @@
-# -playmaths
+# @playmaths
 https://@playmaths.com
